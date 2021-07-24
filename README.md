@@ -9,6 +9,6 @@ This is the messenger app create with React, Redux and firebase.
 4. Run the project and enjoy.
 
 <br>
-![Live Preview](https://slack-7260c.web.app/Login)
+[Live Preview](https://slack-7260c.web.app/Login)
 
 

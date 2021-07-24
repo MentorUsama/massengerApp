@@ -1,5 +1,5 @@
 # Massenger App
-This is the messenger app create with React, Redux and firebase.
+This is the messenger app created with React, Redux and firebase.
 [Live Preview](https://slack-7260c.firebaseapp.com)
 
 # Installation Guide

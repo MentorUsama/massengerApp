@@ -1,0 +1,481 @@
+{
+  "channels" : {
+    "-MaEsdqE1ie9C8s3aPmQ" : {
+      "createdBy" : {
+        "avatar" : "http://gravatar.com/avatar/0.02384522508868092?d=identicon",
+        "name" : "usama"
+      },
+      "details" : "Eat and Enjoy",
+      "id" : "-MaEsdqE1ie9C8s3aPmQ",
+      "name" : "Food"
+    },
+    "-MaEv9c5FaFZBtwtUExM" : {
+      "createdBy" : {
+        "avatar" : "http://gravatar.com/avatar/0.02384522508868092?d=identicon",
+        "name" : "usama"
+      },
+      "details" : "Eated Well? Now Sleep Well",
+      "id" : "-MaEv9c5FaFZBtwtUExM",
+      "name" : "Sleep"
+    },
+    "-MaEvvMu8bbPpK0e_1z7" : {
+      "createdBy" : {
+        "avatar" : "http://gravatar.com/avatar/0.02384522508868092?d=identicon",
+        "name" : "usama"
+      },
+      "details" : "hjelo",
+      "id" : "-MaEvvMu8bbPpK0e_1z7",
+      "name" : "usama"
+    },
+    "-MbXMiJdBlkoa7OLQRPs" : {
+      "createdBy" : {
+        "avatar" : "http://gravatar.com/avatar/0.02384522508868092?d=identicon",
+        "name" : "usama"
+      },
+      "details" : "e",
+      "id" : "-MbXMiJdBlkoa7OLQRPs",
+      "name" : "sds"
+    }
+  },
+  "messages" : {
+    "-MaEsdqE1ie9C8s3aPmQ" : {
+      "-Md882W9J5P-E7TEBBUx" : {
+        "content" : "gloabal channel food",
+        "timestamp" : 1624724748608,
+        "user" : {
+          "avatar" : "http://gravatar.com/avatar/0.011939882323859674?d=identicon",
+          "id" : "kHEnK4Xk9CNiLGZTmZGadA2oxBs2",
+          "name" : "USAMA FARHAT"
+        }
+      }
+    }
+  },
+  "privateMessages" : {
+    "BKAdv6AXcLZtOQlkv628VUQiIo32" : {
+      "s8eeWs4tb3MsAZR5F4Ci05E2O4H2" : {
+        "-McxmofyJ5beoGiWZIOl" : {
+          "content" : "a",
+          "timestamp" : 1624534371326,
+          "user" : {
+            "avatar" : "https://firebasestorage.googleapis.com/v0/b/slack-7260c.appspot.com/o/avatars%2Fuser-s8eeWs4tb3MsAZR5F4Ci05E2O4H2?alt=media&token=933704df-4927-4e26-85c4-a3f3719c9075",
+            "id" : "s8eeWs4tb3MsAZR5F4Ci05E2O4H2",
+            "name" : "usama"
+          }
+        }
+      }
+    },
+    "IZAt9wQCjhewwEtsFa5cnCBWSAx2" : {
+      "s8eeWs4tb3MsAZR5F4Ci05E2O4H2" : {
+        "-MctrZNol0AluhbtmWwx" : {
+          "content" : "yo",
+          "timestamp" : 1624468506471,
+          "user" : {
+            "avatar" : "http://gravatar.com/avatar/0.9196137187853526?d=identicon",
+            "id" : "IZAt9wQCjhewwEtsFa5cnCBWSAx2",
+            "name" : "usama1"
+          }
+        },
+        "-MctugkHVUU4s-BVmaci" : {
+          "image" : "https://firebasestorage.googleapis.com/v0/b/slack-7260c.appspot.com/o/chat%2Fprivate%2FIZAt9wQCjhewwEtsFa5cnCBWSAx2%2Fs8eeWs4tb3MsAZR5F4Ci05E2O4H2%2F18ffa9dd-472d-4885-97c2-506d4ce9203d?alt=media&token=95f9d00f-3649-4762-b29b-f630372df645",
+          "timestamp" : 1624469327212,
+          "user" : {
+            "avatar" : "http://gravatar.com/avatar/0.9196137187853526?d=identicon",
+            "id" : "IZAt9wQCjhewwEtsFa5cnCBWSAx2",
+            "name" : "usama1"
+          }
+        },
+        "-McxHfApvMiRycaI0xrs" : {
+          "content" : "df",
+          "timestamp" : 1624525943790,
+          "user" : {
+            "avatar" : "http://gravatar.com/avatar/0.9196137187853526?d=identicon",
+            "id" : "IZAt9wQCjhewwEtsFa5cnCBWSAx2",
+            "name" : "usama1"
+          }
+        }
+      }
+    },
+    "YRv5WJZkHCfUNhv0tkBe00GHwF33" : {
+      "kHEnK4Xk9CNiLGZTmZGadA2oxBs2" : {
+        "-Md7fjlsX2OcV03n09OG" : {
+          "content" : "YO",
+          "timestamp" : 1624717065584,
+          "user" : {
+            "avatar" : "http://gravatar.com/avatar/0.011939882323859674?d=identicon",
+            "id" : "kHEnK4Xk9CNiLGZTmZGadA2oxBs2",
+            "name" : "USAMA FARHAT"
+          }
+        },
+        "-Md7fpKPwBpESnz7Vqv6" : {
+          "content" : "han chawal",
+          "timestamp" : 1624717088397,
+          "user" : {
+            "avatar" : "http://gravatar.com/avatar/0.7395079989999673?d=identicon",
+            "id" : "YRv5WJZkHCfUNhv0tkBe00GHwF33",
+            "name" : "happy kumar"
+          }
+        },
+        "-Md7frrGOqI3k7MXLeOa" : {
+          "content" : "O JA TIRJA",
+          "timestamp" : 1624717098697,
+          "user" : {
+            "avatar" : "http://gravatar.com/avatar/0.011939882323859674?d=identicon",
+            "id" : "kHEnK4Xk9CNiLGZTmZGadA2oxBs2",
+            "name" : "USAMA FARHAT"
+          }
+        },
+        "-Md7ftxgELw45HdgI6sd" : {
+          "content" : "o bewakoof",
+          "timestamp" : 1624717107356,
+          "user" : {
+            "avatar" : "http://gravatar.com/avatar/0.7395079989999673?d=identicon",
+            "id" : "YRv5WJZkHCfUNhv0tkBe00GHwF33",
+            "name" : "happy kumar"
+          }
+        }
+      }
+    }
+  },
+  "users" : {
+    "BKAdv6AXcLZtOQlkv628VUQiIo32" : {
+      "avatar" : "http://gravatar.com/avatar/0.1714544977326291?d=identicon",
+      "name" : "true"
+    },
+    "IZAt9wQCjhewwEtsFa5cnCBWSAx2" : {
+      "avatar" : "http://gravatar.com/avatar/0.9196137187853526?d=identicon",
+      "name" : "usama1"
+    },
+    "YRv5WJZkHCfUNhv0tkBe00GHwF33" : {
+      "avatar" : "http://gravatar.com/avatar/0.7395079989999673?d=identicon",
+      "colors" : {
+        "-Md7gBH78JjeUQfDa6uI" : {
+          "primary" : {
+            "hex" : "#79a5d2",
+            "hsl" : {
+              "a" : 1,
+              "h" : 210.36144578313255,
+              "l" : 0.649,
+              "s" : 0.4971999999999998
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 210.36144578313255,
+              "s" : 0.4238337705636262,
+              "v" : 0.8235172
+            },
+            "oldHue" : 210.36144578313252,
+            "rgb" : {
+              "a" : 1,
+              "b" : 210,
+              "g" : 165,
+              "r" : 121
+            },
+            "source" : "hsl"
+          },
+          "secondary" : {
+            "hex" : "#2d8681",
+            "hsl" : {
+              "a" : 1,
+              "h" : 176.53012048192775,
+              "l" : 0.35090000000000005,
+              "s" : 0.4971999999999998
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 176.53012048192775,
+              "s" : 0.6641731231632378,
+              "v" : 0.52536748
+            },
+            "oldHue" : 176.53012048192772,
+            "rgb" : {
+              "a" : 1,
+              "b" : 129,
+              "g" : 134,
+              "r" : 45
+            },
+            "source" : "hsl"
+          }
+        }
+      },
+      "name" : "happy kumar"
+    },
+    "kHEnK4Xk9CNiLGZTmZGadA2oxBs2" : {
+      "avatar" : "http://gravatar.com/avatar/0.011939882323859674?d=identicon",
+      "colors" : {
+        "-Md7g1SvpUhNh7z2ck1O" : {
+          "primary" : {
+            "hex" : "#b54040",
+            "hsl" : {
+              "a" : 1,
+              "h" : 0,
+              "l" : 0.4803,
+              "s" : 0.4775000000000001
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 0,
+              "s" : 0.646362098138748,
+              "v" : 0.7096432500000001
+            },
+            "oldHue" : 0.43373493975903615,
+            "rgb" : {
+              "a" : 1,
+              "b" : 64,
+              "g" : 64,
+              "r" : 181
+            },
+            "source" : "hsl"
+          },
+          "secondary" : {
+            "hex" : "#862d2e",
+            "hsl" : {
+              "a" : 1,
+              "h" : 359.00000000000006,
+              "l" : 0.35090000000000005,
+              "s" : 0.4971999999999998
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 359.00000000000006,
+              "s" : 0.6641731231632378,
+              "v" : 0.52536748
+            },
+            "oldHue" : 359,
+            "rgb" : {
+              "a" : 1,
+              "b" : 46,
+              "g" : 45,
+              "r" : 134
+            },
+            "source" : "hsl"
+          }
+        }
+      },
+      "name" : "USAMA FARHAT"
+    },
+    "s8eeWs4tb3MsAZR5F4Ci05E2O4H2" : {
+      "avatar" : "https://firebasestorage.googleapis.com/v0/b/slack-7260c.appspot.com/o/avatars%2Fuser-s8eeWs4tb3MsAZR5F4Ci05E2O4H2?alt=media&token=933704df-4927-4e26-85c4-a3f3719c9075",
+      "colors" : {
+        "-McAWnU9PPztbiTMTyXi" : {
+          "primary" : {
+            "hex" : "#862d2e",
+            "hsl" : {
+              "a" : 1,
+              "h" : 358.84615384615387,
+              "l" : 0.35,
+              "s" : 0.49999999999999983
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 358.84615384615387,
+              "s" : 0.6666666666666665,
+              "v" : 0.5249999999999999
+            },
+            "oldHue" : 358.84615384615387,
+            "rgb" : {
+              "a" : 1,
+              "b" : 46,
+              "g" : 45,
+              "r" : 134
+            },
+            "source" : "hsl"
+          },
+          "secondary" : {
+            "hex" : "#632d86",
+            "hsl" : {
+              "a" : 1,
+              "h" : 276.40449438202245,
+              "l" : 0.35,
+              "s" : 0.49999999999999983
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 276.40449438202245,
+              "s" : 0.6666666666666665,
+              "v" : 0.5249999999999999
+            },
+            "oldHue" : 276.40449438202245,
+            "rgb" : {
+              "a" : 1,
+              "b" : 134,
+              "g" : 45,
+              "r" : 99
+            },
+            "source" : "hsl"
+          }
+        },
+        "-McAZJZtYwXLFO7gohu8" : {
+          "primary" : {
+            "hex" : "#bf4042",
+            "hsl" : {
+              "a" : 1,
+              "h" : 358.974358974359,
+              "l" : 0.5,
+              "s" : 0.5
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 358.974358974359,
+              "s" : 0.6666666666666666,
+              "v" : 0.75
+            },
+            "oldHue" : 358.974358974359,
+            "rgb" : {
+              "a" : 1,
+              "b" : 66,
+              "g" : 64,
+              "r" : 191
+            },
+            "source" : "hsl"
+          },
+          "secondary" : {
+            "hex" : "#e6b3b3",
+            "hsl" : {
+              "a" : 1,
+              "h" : 359.3258426966292,
+              "l" : 0.8,
+              "s" : 0.4999999999999999
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 359.3258426966292,
+              "s" : 0.22222222222222215,
+              "v" : 0.9
+            },
+            "oldHue" : 359.3258426966292,
+            "rgb" : {
+              "a" : 1,
+              "b" : 179,
+              "g" : 179,
+              "r" : 230
+            },
+            "source" : "hsl"
+          }
+        },
+        "-McAoGztkSbkEOmZvkS_" : {
+          "primary" : {
+            "hex" : "#254d19",
+            "hsl" : {
+              "a" : 1,
+              "h" : 106.66666666666664,
+              "l" : 0.2,
+              "s" : 0.5000000000000001
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 106.66666666666664,
+              "s" : 0.6666666666666667,
+              "v" : 0.30000000000000004
+            },
+            "oldHue" : 106.66666666666666,
+            "rgb" : {
+              "a" : 1,
+              "b" : 25,
+              "g" : 77,
+              "r" : 37
+            },
+            "source" : "hsl"
+          },
+          "secondary" : {
+            "hex" : "#4d191a",
+            "hsl" : {
+              "a" : 1,
+              "h" : 359.3258426966292,
+              "l" : 0.2,
+              "s" : 0.5000000000000001
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 359.3258426966292,
+              "s" : 0.6666666666666667,
+              "v" : 0.30000000000000004
+            },
+            "oldHue" : 359.3258426966292,
+            "rgb" : {
+              "a" : 1,
+              "b" : 26,
+              "g" : 25,
+              "r" : 77
+            },
+            "source" : "hsl"
+          }
+        },
+        "-McFevvrOOxWT41L_NyA" : {
+          "primary" : {
+            "hex" : "#4d4b19",
+            "hsl" : {
+              "a" : 1,
+              "h" : 58.46153846153845,
+              "l" : 0.2,
+              "s" : 0.5000000000000001
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 58.46153846153845,
+              "s" : 0.6666666666666667,
+              "v" : 0.30000000000000004
+            },
+            "oldHue" : 58.46153846153845,
+            "rgb" : {
+              "a" : 1,
+              "b" : 25,
+              "g" : 75,
+              "r" : 77
+            },
+            "source" : "hsl"
+          },
+          "secondary" : {
+            "hex" : "#4d3319",
+            "hsl" : {
+              "a" : 1,
+              "h" : 29.662921348314608,
+              "l" : 0.2,
+              "s" : 0.5000000000000001
+            },
+            "hsv" : {
+              "a" : 1,
+              "h" : 29.662921348314608,
+              "s" : 0.6666666666666667,
+              "v" : 0.30000000000000004
+            },
+            "oldHue" : 29.662921348314605,
+            "rgb" : {
+              "a" : 1,
+              "b" : 25,
+              "g" : 51,
+              "r" : 77
+            },
+            "source" : "hsl"
+          }
+        }
+      },
+      "name" : "usama",
+      "starred" : {
+        "-MaEv9c5FaFZBtwtUExM" : {
+          "createdBy" : {
+            "avatar" : "http://gravatar.com/avatar/0.02384522508868092?d=identicon",
+            "name" : "usama"
+          },
+          "details" : "Eated Well? Now Sleep Well",
+          "name" : "Sleep"
+        },
+        "-MaEvvMu8bbPpK0e_1z7" : {
+          "createdBy" : {
+            "avatar" : "http://gravatar.com/avatar/0.02384522508868092?d=identicon",
+            "name" : "usama"
+          },
+          "details" : "hjelo",
+          "name" : "usama"
+        },
+        "-MbXMiJdBlkoa7OLQRPs" : {
+          "createdBy" : {
+            "avatar" : "http://gravatar.com/avatar/0.02384522508868092?d=identicon",
+            "name" : "usama"
+          },
+          "details" : "e",
+          "name" : "sds"
+        }
+      }
+    }
+  }
+}

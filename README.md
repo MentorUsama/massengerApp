@@ -5,6 +5,7 @@ This is the messenger app created with React, Redux and firebase.
 
 ## Screenshot <br>
 [[https://github.com/MentorUsama/massengerApp/blob/main/screenshot.PNG]]
+![][https://github.com/MentorUsama/massengerApp/blob/main/screenshot.PNG]
 
 # Installation Guide
 1. Run command "npm install" in the main directory of your project

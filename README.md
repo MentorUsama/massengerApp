@@ -1,6 +1,6 @@
 # Massenger App
 This is the messenger app create with React, Redux and firebase.
-[Live Preview](https://slack-7260c.web.app/Login)
+[Live Preview](https://slack-7260c.firebaseapp.com)
 
 # Installation Guide
 1. Run command "npm install" in the main directory of your project

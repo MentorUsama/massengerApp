@@ -3,8 +3,8 @@ This is the messenger app created with React, Redux and firebase.
 <br>
 [Live Preview](https://slack-7260c.firebaseapp.com)
 
-<br>
-![Screen Shot](https://github.com/MentorUsama/massengerApp/blob/main/screenshot.PNG)
+## Screenshot <br>
+![ScreenShot](https://github.com/MentorUsama/massengerApp/blob/main/screenshot.PNG)
 
 # Installation Guide
 1. Run command "npm install" in the main directory of your project
